@@ -1,4 +1,3 @@
-//Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
 //Arduino Timer Relay - Triger relay for specific time
 
 #include <LiquidCrystal_I2C.h>  //https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
