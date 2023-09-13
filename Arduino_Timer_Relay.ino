@@ -2,7 +2,7 @@
 
 #include <LiquidCrystal_I2C.h>  //https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 LiquidCrystal_I2C lcd(0x3F, 16, 2);  // LCD HEX address 0x3F -- change according to yours
-#include "Countimer.h" //https://github.com/inflop/Countimer
+#include "Countimer.h"
 Countimer tdown;
 #include <EEPROM.h>
 
